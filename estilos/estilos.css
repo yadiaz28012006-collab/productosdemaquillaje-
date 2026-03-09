@@ -50,6 +50,13 @@ padding: 30px;
     border-color: blueviolet;
     padding: 20px;
 }
+#publicidad img{
+    width: 100%;
+}
+#publicidad2 img{
+    width: 90%;
+    height: 87%;
+}
 /*AQUÍ VOY A PERSONALIZAR LA SECCIÓN DE CONTENIDO*/
 #contenido{
     width:60%;
